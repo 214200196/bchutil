@@ -1,4 +1,4 @@
-module bchutil
+module github.com/214200196/bchutil
 
 go 1.19
 
